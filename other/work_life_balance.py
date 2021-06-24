@@ -2,11 +2,10 @@
 # from tkinter import colorchooser
 
 
-import time
 from datetime import timedelta
 # import datetime
 from tkinter import *
-import Stopwatch as st
+from other import Stopwatch as st
 
 stopwatch = st.Stopwatch()
 
